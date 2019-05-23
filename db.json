@@ -1,0 +1,24 @@
+{
+  "shows": [
+    { 
+      "title": "show1", 
+      "category": "broadway", 
+      "url": "/show1"
+    },
+    { 
+      "title": "show2", 
+      "category": "off-broadway", 
+      "url": "/show2"
+    },
+    { 
+      "title": "show3", 
+      "category": "off-broadway", 
+      "url": "/show3"
+    },
+    { 
+      "title": "show4", 
+      "category": "broadway", 
+      "url": "/show4"
+    }
+  ]
+}
