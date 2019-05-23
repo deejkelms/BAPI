@@ -1,23 +1,48 @@
 {
   "shows": [
     { 
-      "title": "show1", 
+      "title": "Phantom of the Opera", 
       "category": "broadway", 
       "url": "/show1"
     },
     { 
-      "title": "show2", 
+      "title": "Sleep No More", 
       "category": "off-broadway", 
       "url": "/show2"
     },
     { 
-      "title": "show3", 
+      "title": "Rock of Ages", 
       "category": "off-broadway", 
       "url": "/show3"
     },
     { 
-      "title": "show4", 
+      "title": "stomp", 
+      "category": "off-broadway", 
+      "url": "/show3"
+    },
+    { 
+      "title": "Dear Evan Hansen", 
       "category": "broadway", 
+      "url": "/show4"
+    },
+    { 
+      "title": "Aladdin", 
+      "category": "broadway", 
+      "url": "/show4"
+    },
+    { 
+      "title": "Wicked", 
+      "category": "broadway", 
+      "url": "/show4"
+    },
+    { 
+      "title": "Fiddler on the Roof", 
+      "category": "off-broadway", 
+      "url": "/show4"
+    },
+    { 
+      "title": "Jersey Boys", 
+      "category": "off-broadway", 
       "url": "/show4"
     }
   ]
